@@ -9,3 +9,5 @@ Apparatus
 A Linux system (Ubuntu, CentOS, or any other distribution).
 Root or sudo privileges.
 Terminal access.
+![Screenshot 2025-03-21 150020](https://github.com/user-attachments/assets/55f989b5-87f3-4a6a-b848-d77a6d75a72e)
+![Screenshot 2025-03-21 150035](https://github.com/user-attachments/assets/d8596637-9ffc-4d88-8275-5dffc1234d5c)
