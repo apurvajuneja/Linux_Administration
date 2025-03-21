@@ -12,3 +12,4 @@ A Linux system (Ubuntu, CentOS, or any other distribution).
 Terminal access.
 Basic knowledge of Linux commands.
 
+![Screenshot 2025-03-21 201001](https://github.com/user-attachments/assets/fa38bc62-8e82-4591-9dca-ab5cb5adab8a)
