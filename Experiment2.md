@@ -8,5 +8,6 @@ or a sequence expression. The result includes the text that
 precedes or follows the brace definition.
 
 
+![Screenshot 2025-03-21 203007](https://github.com/user-attachments/assets/2e7701a4-eff7-4410-b8c0-7a9ea7e8ad01)
 
 
